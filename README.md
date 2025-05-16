@@ -1,2 +1,2 @@
-# Related-to-LLMS
-All things that related to LLMS, such as MHA, etc.
+# PyTorch Transformer: RoPE & Learnable PE Support
+A PyTorch-based Transformer model with configurable positional encoding: either Rotary Positional Embedding (RoPE) or learnable embeddings. Designed for tasks like function fitting or sequence modeling.
